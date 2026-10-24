@@ -417,9 +417,13 @@ p.note { display: none; }
 <a href="20261024_00097.jpeg" target="_blank"><img src="20261024_00097.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261024_00098.jpeg" target="_blank"><img src="20261024_00098.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">滝の動画3枚、画像のクリックで動画再生します</span></h2>
+<h2><span class="yellow">滝の動画3枚、画像のクリックで動画再生します<br>Click ↓</span></h2>
 <a href="https://youtube.com/shorts/4HJQc1clvWM" target="_blank"><img src="20261024_00001.png" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">Click ↓</span></h2>
 <a href="https://youtube.com/shorts/DMUGXXdCToY" target="_blank"><img src="20261024_00002.png" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">Click ↓</span></h2>
 <a href="https://youtube.com/shorts/olC5GdUGpuA" target="_blank"><img src="20261024_00003.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">最後に男体山をもう一枚！</span></h2>
